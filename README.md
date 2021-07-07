@@ -1,3 +1,5 @@
+#https://gitlab.com/Humpelstilzchen/ros_image_to_rtsp
+
 # ros_rtsp
 ROS package to subscribe to an ROS Image topic (and as many other video sources as you want) and serve it up as a RTSP video feed with different mount points.
 Should provide a real-time video feed (or as close as possible).
